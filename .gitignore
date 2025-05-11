@@ -1,0 +1,15 @@
+__pycache__/*
+notification_service/__pycache__/*
+dist
+notification_service.egg-info
+*.pyc
+.coverage
+.idea/
+.vscode/
+build/
+test/
+*.html
+*.css
+*.png
+test.ipynb
+notes.md
